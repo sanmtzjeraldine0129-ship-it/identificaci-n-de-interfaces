@@ -1,0 +1,1081 @@
+{
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"oeradores matematicos\")\n",
+        "print(\"Realiza la suma 4 + 4 =\" , 4 + 4)\n",
+        "print(\"Realiza la resta 8 - 6 =\" , 8 - 6)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "WyrOi72sqpN_",
+        "outputId": "ae2a1628-6999-4c4e-d82d-4b7fd0e0fcb0"
+      },
+      "id": "WyrOi72sqpN_",
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "oeradores matematicos\n",
+            "Realiza la suma 4 + 4 = 8\n",
+            "Realiza la resta 8 - 6 = 2\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 5 * 4 =\" , 5 * 4)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "1AQ1FPj8qrsQ",
+        "outputId": "edbbb3d8-dd79-456c-a3d5-717ef543dbaf"
+      },
+      "id": "1AQ1FPj8qrsQ",
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 5 * 4 = 20\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "suma"
+      ],
+      "metadata": {
+        "id": "hRGJ12j4xict"
+      },
+      "id": "hRGJ12j4xict"
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 7 + 5 =\" , 7 + 5)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "flIZFMnTqr1_",
+        "outputId": "55b3ec62-3755-4c3c-b857-13c960e2f64e"
+      },
+      "id": "flIZFMnTqr1_",
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 7 + 5 = 12\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 15 + 9=\" , 15 + 9)"
+      ],
+      "metadata": {
+        "id": "W2ZdEAgauev_",
+        "outputId": "5bd33584-bace-4962-ddad-07f336f5f7a7",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "W2ZdEAgauev_",
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 15 + 9= 24\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 23 + 18 =\" , 23 + 18)"
+      ],
+      "metadata": {
+        "id": "mI-YdAjRufQv",
+        "outputId": "5379106d-408f-4d88-e977-938d460820fd",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "mI-YdAjRufQv",
+      "execution_count": 6,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 23 + 18 = 41\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma  40 + 12 =\" , 40 + 12)"
+      ],
+      "metadata": {
+        "id": "jv1q2-9_ufVO",
+        "outputId": "4dec75f6-222e-4c58-d04b-59ceb2e1ba0c",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "jv1q2-9_ufVO",
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma  40 + 12 = 52\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 6 +  14 =\" , 6 + 14)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "7M_UYMkPufan",
+        "outputId": "04661ea3-716d-4e2c-aa53-c20259582b05"
+      },
+      "id": "7M_UYMkPufan",
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 6 +  14 = 20\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 32 + 27 =\" , 32 + 27)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "collapsed": true,
+        "id": "KdEnJJBev0WA",
+        "outputId": "6668de48-46bd-4698-df52-f7cf067d082e"
+      },
+      "id": "KdEnJJBev0WA",
+      "execution_count": 12,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realizar la suma 32 + 27 = 59\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 11 + 19 =\" , 11 + 19)"
+      ],
+      "metadata": {
+        "id": "s8Xvd0GWwKTV",
+        "outputId": "8c8dfce1-55bc-460a-d955-9dd6a13e5cc1",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "s8Xvd0GWwKTV",
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realizar la suma 11 + 19 = 30\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 50 + 25 =\" , 50 + 25)"
+      ],
+      "metadata": {
+        "id": "bPkwyRL1wYiW",
+        "outputId": "1da93cd4-5717-444d-e0d3-d89fb6bf7e67",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "bPkwyRL1wYiW",
+      "execution_count": 14,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 50 + 25 = 75\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 8 + 36 =\" , 8 + 36)"
+      ],
+      "metadata": {
+        "id": "nGbRZftzv0iv",
+        "outputId": "77eebba5-b9be-4c84-c8b3-864e71541e63",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "nGbRZftzv0iv",
+      "execution_count": 15,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 8 + 36 = 44\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la suma 100 + 45 =\" , 100 + 45)"
+      ],
+      "metadata": {
+        "id": "7wGRe4GSv0tv",
+        "outputId": "f8ddab2d-1890-484e-c3bf-77b4e95590ad",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "7wGRe4GSv0tv",
+      "execution_count": 17,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la suma 100 + 45 = 145\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Resta"
+      ],
+      "metadata": {
+        "id": "wgnvCfvpxsE_"
+      },
+      "id": "wgnvCfvpxsE_"
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta  9 - 4 =\" , 9 - 4)"
+      ],
+      "metadata": {
+        "id": "cuRWnO9kxvmH",
+        "outputId": "73f302c3-7dc2-45b2-d853-08dc2c5ad078",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "cuRWnO9kxvmH",
+      "execution_count": 18,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta  9 - 4 = 5\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta  20 - 7 =\" , 20 - 7)"
+      ],
+      "metadata": {
+        "id": "ZE7d5QOax7fP",
+        "outputId": "ca21b5a2-9413-4cdb-ee06-c0849b09667a",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "ZE7d5QOax7fP",
+      "execution_count": 19,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta  20 - 7 = 13\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta  45 - 15 =\" , 45 - 15)"
+      ],
+      "metadata": {
+        "id": "SEvg21lAx7uX",
+        "outputId": "bb02d43d-5bec-49b2-8730-83c2c3948825",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "SEvg21lAx7uX",
+      "execution_count": 20,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta  45 - 15 = 30\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 60 - 22 =\" , 60 - 22)"
+      ],
+      "metadata": {
+        "id": "-cBDtds1x78X",
+        "outputId": "6ce2f3c9-6cb8-409b-a202-7106bbfb9de0",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "-cBDtds1x78X",
+      "execution_count": 21,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 60 - 22 = 38\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 18 - 9 =\" , 18 - 9)"
+      ],
+      "metadata": {
+        "id": "YkuQqmu3x9ot",
+        "outputId": "dcd55133-b234-4159-fb69-c3aebf12ee01",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "YkuQqmu3x9ot",
+      "execution_count": 22,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 18 - 9 = 9\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 100 - 35 =\" , 100 - 35)"
+      ],
+      "metadata": {
+        "id": "eriw1jksx923",
+        "outputId": "7818c346-e736-4a8a-c012-08972b4f1a9f",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "eriw1jksx923",
+      "execution_count": 23,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 100 - 35 = 65\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 70 - 28 =\" , 70 - 28)"
+      ],
+      "metadata": {
+        "id": "SZ4mIGgbx-CO",
+        "outputId": "3d26f941-44af-4449-d5f7-31057706de17",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "SZ4mIGgbx-CO",
+      "execution_count": 24,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 70 - 28 = 42\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 33 - 11 =\" , 33 - 11)"
+      ],
+      "metadata": {
+        "id": "1obSsjzVx-M2",
+        "outputId": "edbb0399-61c3-4844-bb29-e84d29649ba6",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "1obSsjzVx-M2",
+      "execution_count": 25,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 33 - 11 = 22\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 90 - 40 =\" , 90 - 40)"
+      ],
+      "metadata": {
+        "id": "ymzFOHDRx-XH",
+        "outputId": "5b6333b0-5146-43a8-cb15-e8f30ea7b19d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "ymzFOHDRx-XH",
+      "execution_count": 26,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 90 - 40 = 50\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la resta 55 - 25 =\" , 55 - 25)"
+      ],
+      "metadata": {
+        "id": "7T20d9qVx-ff",
+        "outputId": "b4679bee-05c6-4256-b794-52d48038526f",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "7T20d9qVx-ff",
+      "execution_count": 27,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la resta 55 - 25 = 30\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "multiplicacion"
+      ],
+      "metadata": {
+        "id": "tYbGsAOxz_5e"
+      },
+      "id": "tYbGsAOxz_5e"
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 3 * 4 =\" , 3 * 4)"
+      ],
+      "metadata": {
+        "id": "Xr8jemPQ0HSX",
+        "outputId": "67ead299-eb55-4174-da5a-e21f94e86a93",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "Xr8jemPQ0HSX",
+      "execution_count": 28,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 3 * 4 = 12\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion  6 * 7 =\" , 6 * 7)"
+      ],
+      "metadata": {
+        "id": "0UyRXOtU0dit",
+        "outputId": "645e665d-8e48-4a8f-e513-4d4cac63c772",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "0UyRXOtU0dit",
+      "execution_count": 29,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion  6 * 7 = 42\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 8 * 5 =\" , 8 * 5)"
+      ],
+      "metadata": {
+        "id": "0nsLTNzm0Hcd",
+        "outputId": "6ad3c9e7-b53e-4e99-8e35-4e764bb4c2e0",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "0nsLTNzm0Hcd",
+      "execution_count": 30,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 8 * 5 = 40\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 9 * 9 =\" , 9 * 9)"
+      ],
+      "metadata": {
+        "id": "DcCzvtvo1FMe",
+        "outputId": "b4669753-4971-4a21-bbf0-be56840533cd",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "DcCzvtvo1FMe",
+      "execution_count": 31,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 9 * 9 = 81\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 12 * 3 =\" , 12 * 3)"
+      ],
+      "metadata": {
+        "id": "8j031rBg0HoV",
+        "outputId": "788f6b6d-0ace-4eaf-902e-bcb22c031015",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "8j031rBg0HoV",
+      "execution_count": 32,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 12 * 3 = 36\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 15 * 2 =\" , 15 * 2)"
+      ],
+      "metadata": {
+        "id": "KFKtXVqf0H5G",
+        "outputId": "6fab747c-084d-4b1b-a441-1dcec2de9fbf",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "KFKtXVqf0H5G",
+      "execution_count": 33,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 15 * 2 = 30\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 11 * 6 =\" , 11 * 6)"
+      ],
+      "metadata": {
+        "id": "LMPvszta0IDJ",
+        "outputId": "e4c51080-d7cd-4b1a-c2a0-c0bf223c4171",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "LMPvszta0IDJ",
+      "execution_count": 34,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 11 * 6 = 66\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 4 * 25 =\" , 4 * 25)"
+      ],
+      "metadata": {
+        "id": "-ho3VHbR1231",
+        "outputId": "27f4a3d3-0503-4cc9-8b8d-d26990a183d4",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "-ho3VHbR1231",
+      "execution_count": 35,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 4 * 25 = 100\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la multiplicacion 7 * 8 =\" , 7 * 8 )"
+      ],
+      "metadata": {
+        "id": "bRNd9LCy0JJW",
+        "outputId": "27d5fdc6-722a-4dbf-c582-fdd72e4432c8",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "bRNd9LCy0JJW",
+      "execution_count": 36,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multiplicacion 7 * 8 = 56\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print (\"Realiza la multiplicacion 10 * 12 =\" , 10 * 12)"
+      ],
+      "metadata": {
+        "id": "5yfyPUpW0JVe",
+        "outputId": "21beb48c-cb4a-4fda-831e-1788200bf9be",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "5yfyPUpW0JVe",
+      "execution_count": 37,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la multi´plicacion 10 * 12 = 120\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "divison"
+      ],
+      "metadata": {
+        "id": "NuLBrxXr2qkO"
+      },
+      "id": "NuLBrxXr2qkO"
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print (\"Realiza la divison 12 / 3 =\" , 12 / 3 )"
+      ],
+      "metadata": {
+        "id": "9TmHJMfp2tW_",
+        "outputId": "704a03ad-8ab3-42cf-ff45-fb5bf3c0dca4",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "9TmHJMfp2tW_",
+      "execution_count": 41,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison 12 / 3 = 4.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison  20 / 5 =\" , 20 / 5)"
+      ],
+      "metadata": {
+        "id": "-KNR7iN33Sy-",
+        "outputId": "9c97ccb3-c35c-4114-cc51-f91257723dfa",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "-KNR7iN33Sy-",
+      "execution_count": 42,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison  20 / 5 = 4.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison  45 / 9 =\" , 45 / 9)"
+      ],
+      "metadata": {
+        "id": "_0KbAkwM2tgx",
+        "outputId": "36cbe2a8-b835-45b7-9729-f294bfa8b3d4",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "_0KbAkwM2tgx",
+      "execution_count": 44,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison  45 / 9 = 5.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison  100 / 10 =\" , 100 / 10)"
+      ],
+      "metadata": {
+        "id": "1yvzGYGf2tq3",
+        "outputId": "c416794a-dbb9-41fb-f703-61539132643e",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "1yvzGYGf2tq3",
+      "execution_count": 45,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison  100 / 10 = 10.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison 36 / 6 =\" , 36 / 6)"
+      ],
+      "metadata": {
+        "id": "ZFwY7cl22t0X",
+        "outputId": "0f38f0af-f01e-4f37-f995-7d4aabc4a850",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "ZFwY7cl22t0X",
+      "execution_count": 46,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison 36 / 6 = 6.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison 81 / 9 =\" , 81 / 9)"
+      ],
+      "metadata": {
+        "id": "jynKv7rI2t9W",
+        "outputId": "c8125e39-afc6-480e-89cb-bc0a8b50e68d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "jynKv7rI2t9W",
+      "execution_count": 47,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison 81 / 9 = 9.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison 64 / 8 =\" , 64 / 8)"
+      ],
+      "metadata": {
+        "id": "Fddn30Qf2uHH",
+        "outputId": "cd490e3e-9f40-49e8-eb37-23bc34d6b75c",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "Fddn30Qf2uHH",
+      "execution_count": 48,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison 64 / 8 = 8.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la division  72 / 12 =\" , 72 / 12)"
+      ],
+      "metadata": {
+        "id": "eyil1SRU2uPW",
+        "outputId": "c9a45043-78e1-4716-d6fe-14da707df57d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "eyil1SRU2uPW",
+      "execution_count": 49,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la division  72 / 12 = 6.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison 50 / 5 =\" , 50 / 5)"
+      ],
+      "metadata": {
+        "id": "rCsxzzbm2uYm",
+        "outputId": "5e5d3e2e-627a-4783-fc5b-ab600c452871",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "rCsxzzbm2uYm",
+      "execution_count": 50,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison 50 / 5 = 10.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"Realiza la divison 144 / 12 =\" , 144 / 12)"
+      ],
+      "metadata": {
+        "id": "RG5IY-Iz5Lre",
+        "outputId": "e77b80ac-1bff-4eef-b76a-338fb9275a26",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "id": "RG5IY-Iz5Lre",
+      "execution_count": 52,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Realiza la divison 144 / 12 = 12.0\n"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "display_name": "Python 3 (ipykernel)",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.11.0"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
